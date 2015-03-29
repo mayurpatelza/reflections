@@ -15,3 +15,6 @@ THey let you see the reachability of the commits very easily.  They also let you
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Combines the commits for each branch into one branch.  allows you to build separately and if you chose to then merge at a later stage.  THe diagram allows us to view the commits in a sequence and shows the parents of each commit
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros: does lots of hard work for you in a reliable way, Cons:may introduce bugs

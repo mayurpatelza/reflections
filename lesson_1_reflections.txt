@@ -1,0 +1,20 @@
+You save time by not having to hunt for the changes
+You get to see all the changes between the files so know that are looking at the point where errors can occur
+you get to see what's added and removed as either may cause issues
+
+Reflect:Using History for Efficiency
+You get to see all changes as they occurred in the order they occurred
+You can trace the problem easier if you know when it occurred
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, 
+while others, like Google Docs, treat each file separately?
+They create a process that suits the type of content they intend to be managed
+
+How can you use the commands git log and git diff to view the history of files?
+get the id's of the diffs using the git log and apply those id's to the git diff command
+
+How might using version control make you more confident to make changes that could break something?
+You get an easy way to revert changes back to the original working version
+
+Now that you have your workspace set up, what do you want to try using Git for?
+Version control some files

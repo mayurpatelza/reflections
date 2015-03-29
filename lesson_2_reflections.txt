@@ -7,3 +7,5 @@ THe staging area allows you to set up the commit as required.
 How can you use the staging area to make sure you have one commit per logical change?
 you are able to add multiple files to the area that are all related to the same logical change
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Adding experimental features, trying things out.  Branches keep track of separate pieces of code and allows you to keep a working version as well

@@ -12,3 +12,6 @@ Adding experimental features, trying things out.  Branches keep track of separat
 
 How do the diagrams help you visualize the branch structure?
 THey let you see the reachability of the commits very easily.  They also let you visually see where branches split and what is contained in each of them
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Combines the commits for each branch into one branch.  allows you to build separately and if you chose to then merge at a later stage.  THe diagram allows us to view the commits in a sequence and shows the parents of each commit

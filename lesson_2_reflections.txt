@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+git creates a hidden git folder that is used to store meta data for tracking the files.

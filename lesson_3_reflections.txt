@@ -11,3 +11,6 @@ branch are a list of commits wihtin a repo
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 No need for internet to do comparisons
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+It means you have to talk alot more, work harder to merge changes and its near impossible to keep a running log f what happens in code

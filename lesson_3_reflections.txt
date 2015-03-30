@@ -9,4 +9,5 @@ forks are a github clone of a repo on their servers
 clones are a copy of a repo
 branch are a list of commits wihtin a repo
 
-test
+What is the benefit of having a copy of the last known state of the remote stored locally?
+No need for internet to do comparisons
